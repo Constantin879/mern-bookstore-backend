@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "productId": 8,
+      "quantity": 1,
+      "title": "Full-Stack React Projects",
+      "author": "Shama Hoque",
+      "price": 82.99,
+      "imageUrl": "https://m.media-amazon.com/images/I/81opCxE5j0L._SL1500_.jpg",
+      "addedAt": "2025-11-29T09:37:29.091Z"
+    }
+  ],
+  "total": 82.99,
+  "totalItems": 1,
+  "lastUpdated": "2025-11-29T09:37:29.091Z"
+}

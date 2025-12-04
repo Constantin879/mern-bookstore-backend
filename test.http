@@ -1,0 +1,8 @@
+### Testare căutare
+GET http://localhost:3000/api/products?search=React
+
+### Testare sortare
+GET http://localhost:3000/api/products?sort=price_desc
+
+### Testare combinată (categorie + căutare + sortare)
+GET http://localhost:3000/api/products?category=React&search=React&sort=title_asc

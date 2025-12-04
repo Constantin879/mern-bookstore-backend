@@ -1,0 +1,372 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "title": "Express.js in Action",
+      "author": "Evan M. Hahn",
+      "isbn": "978-1617292422",
+      "category": "Express",
+      "price": 75.5,
+      "discountPrice": 65.99,
+      "description": "Construiește aplicații web rapide și scalabile cu Express.js. Învață concepte cheie pentru dezvoltarea backend.",
+      "imageUrl": "https://m.media-amazon.com/images/I/715cq0+dN8L._SL1500_.jpg",
+      "stock": 18,
+      "isActive": true,
+      "featured": false,
+      "rating": 4.3,
+      "reviewCount": 89,
+      "tags": [
+        "express",
+        "nodejs",
+        "web-framework",
+        "api"
+      ],
+      "specifications": {
+        "pages": 256,
+        "language": "English",
+        "publisher": "Manning Publications",
+        "year": 2016,
+        "format": "Paperback"
+      },
+      "createdAt": "2024-01-02T00:00:00.000Z",
+      "updatedAt": "2025-09-28T10:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "React: Up & Running",
+      "author": "Stoyan Stefanov",
+      "isbn": "978-1491931821",
+      "category": "React",
+      "price": 88,
+      "discountPrice": null,
+      "description": "Începe rapid cu React! De la concepte fundamentale la aplicații complexe pentru web modern.",
+      "imageUrl": "https://m.media-amazon.com/images/I/81h9Ilh0nIL._SY385_.jpg",
+      "stock": 22,
+      "isActive": true,
+      "featured": true,
+      "rating": 4.7,
+      "reviewCount": 156,
+      "tags": [
+        "react",
+        "frontend",
+        "javascript",
+        "web"
+      ],
+      "specifications": {
+        "pages": 222,
+        "language": "English",
+        "publisher": "O'Reilly Media",
+        "year": 2015,
+        "format": "Paperback"
+      },
+      "createdAt": "2024-04-03T00:00:00.000Z",
+      "updatedAt": "2025-09-28T10:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Node.js Design Patterns",
+      "author": "Mario Casciaro",
+      "isbn": "978-1783287314",
+      "category": "Node.js",
+      "price": 95.99,
+      "discountPrice": 79.99,
+      "description": "Învață design patterns în Node.js pentru aplicații enterprise.",
+      "imageUrl": "https://m.media-amazon.com/images/I/71W5FQMX8LL._SL1360_.jpg",
+      "stock": 15,
+      "isActive": true,
+      "featured": true,
+      "rating": 4.8,
+      "reviewCount": 203,
+      "tags": [
+        "nodejs",
+        "design-patterns",
+        "backend",
+        "architecture"
+      ],
+      "specifications": {
+        "pages": 454,
+        "language": "English",
+        "publisher": "Packt Publishing",
+        "year": 2020,
+        "format": "Paperback"
+      },
+      "createdAt": "2024-01-04T00:00:00.000Z",
+      "updatedAt": "2025-09-28T10:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Learning React",
+      "author": "Alex Banks",
+      "isbn": "978-1491954621",
+      "category": "React",
+      "price": 77.99,
+      "discountPrice": null,
+      "description": "Construiește interfețe moderne cu React și JavaScript. De la JSX până la hooks și componente.",
+      "imageUrl": "https://m.media-amazon.com/images/I/91uFdkCJmAL._SY385_.jpg",
+      "stock": 28,
+      "isActive": true,
+      "featured": false,
+      "rating": 4.4,
+      "reviewCount": 142,
+      "tags": [
+        "react",
+        "javascript",
+        "hooks",
+        "components"
+      ],
+      "specifications": {
+        "pages": 350,
+        "language": "English",
+        "publisher": "O'Reilly Media",
+        "year": 2020,
+        "format": "Paperback"
+      },
+      "createdAt": "2024-01-05T00:00:00.000Z",
+      "updatedAt": "2025-09-28T10:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "title": "MongoDB Applied Design Patterns",
+      "author": "Rick Copeland",
+      "isbn": "978-1449340047",
+      "category": "MongoDB",
+      "price": 68.5,
+      "discountPrice": 59.99,
+      "description": "Pattern-uri practice în MongoDB pentru aplicații din lumea reală.",
+      "imageUrl": "https://m.media-amazon.com/images/I/91mrm96AgOL._SL1500_.jpg",
+      "stock": 22,
+      "isActive": true,
+      "featured": false,
+      "rating": 4.2,
+      "reviewCount": 76,
+      "tags": [
+        "mongodb",
+        "patterns",
+        "optimization",
+        "database"
+      ],
+      "specifications": {
+        "pages": 190,
+        "language": "English",
+        "publisher": "O'Reilly Media",
+        "year": 2013,
+        "format": "Paperback"
+      },
+      "createdAt": "2024-01-06T00:00:00.000Z",
+      "updatedAt": "2025-09-28T10:00:00.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Node.js 8 the Right Way",
+      "author": "Jim Wilson",
+      "isbn": "978-1680501957",
+      "category": "Node.js",
+      "price": 85,
+      "discountPrice": null,
+      "description": "Învață Node.js folosind cele mai bune practici și tehnici moderne.",
+      "imageUrl": "https://m.media-amazon.com/images/I/91FpKeRQjiL._SL1500_.jpg",
+      "stock": 19,
+      "isActive": true,
+      "featured": false,
+      "rating": 4.6,
+      "reviewCount": 98,
+      "tags": [
+        "nodejs",
+        "async",
+        "microservices",
+        "backend"
+      ],
+      "specifications": {
+        "pages": 268,
+        "language": "English",
+        "publisher": "Pragmatic Bookshelf",
+        "year": 2018,
+        "format": "Paperback"
+      },
+      "createdAt": "2024-01-07T00:00:00.000Z",
+      "updatedAt": "2025-09-28T10:00:00.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Full-Stack React Projects",
+      "author": "Shama Hoque",
+      "isbn": "978-1788835334",
+      "category": "React",
+      "price": 92.99,
+      "discountPrice": 82.99,
+      "description": "Construiește aplicații full-stack complete cu React, Node.js și MongoDB.",
+      "imageUrl": "https://m.media-amazon.com/images/I/81opCxE5j0L._SL1500_.jpg",
+      "stock": 14,
+      "isActive": true,
+      "featured": true,
+      "rating": 4.5,
+      "reviewCount": 167,
+      "tags": [
+        "react",
+        "fullstack",
+        "mongodb",
+        "projects"
+      ],
+      "specifications": {
+        "pages": 470,
+        "language": "English",
+        "publisher": "Packt Publishing",
+        "year": 2018,
+        "format": "Paperback"
+      },
+      "createdAt": "2024-01-08T00:00:00.000Z",
+      "updatedAt": "2025-09-28T10:00:00.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Express.js – Ediție Specială",
+      "author": "Azat Mardan",
+      "isbn": "978-1484200384",
+      "category": "Express",
+      "price": 39.99,
+      "discountPrice": null,
+      "description": "Ghidul practic pentru Express.js – de la setup la deployment.",
+      "imageUrl": "https://books.google.ro/books/publisher/content?id=5eGRAwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73tSmyJp6R5nzHlrwWr7NIz7jIsY10xJqBWiIWbzBCuooN12Q9I05xvju8jHzpt2AEbvHgSae2bPwOhF4S105jsfFkPM0plWT99ACpYYQL74fg42HX7L_XR3PbOxADIFH0BC55a",
+      "stock": 25,
+      "isActive": true,
+      "featured": true,
+      "rating": 4.1,
+      "reviewCount": 85,
+      "tags": [
+        "express",
+        "api",
+        "web-development",
+        "guide"
+      ],
+      "specifications": {
+        "pages": 284,
+        "language": "English",
+        "publisher": "Apress",
+        "year": 2014,
+        "format": "Paperback"
+      },
+      "createdAt": "2024-01-09T00:00:00.000Z",
+      "updatedAt": "2025-11-20T16:17:51.568Z"
+    },
+    {
+      "id": 10,
+      "title": "MERN Quick Start Guide",
+      "author": "Eddy Wilson Iriarte Koroliova",
+      "isbn": "978-1787281080",
+      "category": "MERN Stack",
+      "price": 88.5,
+      "discountPrice": 79.99,
+      "description": "Start rapid cu MERN stack! MongoDB, Express, React și Node.js integrate într-un singur proiect.",
+      "imageUrl": "https://m.media-amazon.com/images/I/91LYQ5wKP7L._SL1500_.jpg",
+      "stock": 21,
+      "isActive": true,
+      "featured": true,
+      "rating": 4.3,
+      "reviewCount": 134,
+      "tags": [
+        "mern",
+        "fullstack",
+        "quickstart",
+        "tutorial"
+      ],
+      "specifications": {
+        "pages": 302,
+        "language": "English",
+        "publisher": "Packt Publishing",
+        "year": 2018,
+        "format": "Paperback"
+      },
+      "createdAt": "2024-01-10T00:00:00.000Z",
+      "updatedAt": "2025-09-28T10:00:00.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Pro MERN Stack",
+      "author": "Vasan Subramanian",
+      "isbn": "978-1484243916",
+      "category": "MERN Stack",
+      "price": 105.99,
+      "discountPrice": null,
+      "description": "Dezvoltarea profesională cu MERN stack. Arhitecturi enterprise, best practices și aplicații avansate.",
+      "imageUrl": "https://m.media-amazon.com/images/I/61ouxU3Ge4L._SY425_.jpg",
+      "stock": 12,
+      "isActive": true,
+      "featured": true,
+      "rating": 4.7,
+      "reviewCount": 189,
+      "tags": [
+        "mern",
+        "professional",
+        "enterprise",
+        "advanced"
+      ],
+      "specifications": {
+        "pages": 542,
+        "language": "English",
+        "publisher": "Apress",
+        "year": 2019,
+        "format": "Paperback"
+      },
+      "createdAt": "2024-01-11T00:00:00.000Z",
+      "updatedAt": "2025-09-28T10:00:00.000Z"
+    },
+    {
+      "id": 12,
+      "title": "MongoDB in Action",
+      "author": "Kyle Banker",
+      "isbn": "978-1617291609",
+      "category": "MongoDB",
+      "price": 79.99,
+      "discountPrice": 69.99,
+      "description": "MongoDB practic pentru dezvoltatori. De la modeling la sharding –",
+      "imageUrl": "https://m.media-amazon.com/images/I/71lDGrzajKL._SY342_.jpg",
+      "stock": 17,
+      "isActive": true,
+      "featured": false,
+      "rating": 4.4,
+      "reviewCount": 112,
+      "tags": [
+        "mongodb",
+        "production",
+        "sharding",
+        "modeling"
+      ],
+      "specifications": {
+        "pages": 395,
+        "language": "English",
+        "publisher": "Manning Publications",
+        "year": 2016,
+        "format": "Paperback"
+      },
+      "createdAt": "2024-01-12T00:00:00.000Z",
+      "updatedAt": "2025-09-28T10:00:00.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Beginning MERN Stack: Build and Deploy a Full Stack MongoDB, Express, React, Node.js App",
+      "author": "Greg Lim",
+      "isbn": "979-8523625503",
+      "category": "Programare",
+      "price": 75.38,
+      "discountPrice": null,
+      "description": "Learn to build a full stack MERN application from scratch",
+      "imageUrl": "https://m.media-amazon.com/images/I/513KxWagreS._SY425_.jpg",
+      "stock": 10,
+      "isActive": true,
+      "featured": false,
+      "rating": null,
+      "reviewCount": 0,
+      "tags": [],
+      "specifications": {
+        "pages": "200",
+        "language": "Romanian",
+        "publisher": "Independent",
+        "year": "2021",
+        "format": "Paperback"
+      },
+      "createdAt": "2025-11-18T11:59:05.335Z",
+      "updatedAt": "2025-11-18T11:59:05.336Z",
+      "createdBy": 1
+    }
+  ]
+}
