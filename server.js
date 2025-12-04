@@ -11,7 +11,8 @@ const fs = require('fs');
 const path = require('path');
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
-
+const stripe = require('stripe')
+('sk_test_51SQVN3PE8DtyAGp0Bb4o6nYr2f5hriRkz9A82hNzcfUzX4CW5EfFKYW6FptAq6HsmEFNjV2OBTuCSiF4vZzuQcPQ00qgeTbKzR');
 
 
 
